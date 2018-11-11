@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "portal",
+    "packageName": "com.nl",
+    "packageFolder": "com/nl",
+    "serverPort": 18080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "ZDNhNGNmNzFjZGYzOGNlZjE3MTQ4YmI2ZTk5ZDE1MTM3OWRjZWFhODk4NTQwYzI0OGRmZjNlMjUwMGQxNmRhYzM1Yzg4YTY0YzQ2OTRiZTNhYzFlZTIwYjhhZGIzMWViODg3MDI3YTQ2NDU3YWE5MzY0NmFhZGVlN2FjOTlmMGI="
+  },
+  "git-provider": "GitHub",
+  "git-company": "RonMartinez",
+  "repository-name": "portal"
+}
